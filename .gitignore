@@ -1,0 +1,7 @@
+node_modules
+uni_modules
+unpackage
+
+.hbuilderx
+.idea
+.vscode
